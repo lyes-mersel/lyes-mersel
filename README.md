@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dev.mersel@gmail.com**
 
-- ⚡ Fun fact **Fake it till you make it**
+- ⚡ Fun fact **Fake it till you make it !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
