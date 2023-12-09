@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyes MERSEL</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">CS Student & Full Stack MERN Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyes-mersel&label=Profile%20views&color=0e75b6&style=flat" alt="lyes-mersel" /> </p>
 
