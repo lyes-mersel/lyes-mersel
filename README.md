@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Cloud Computing & More About MERN Stack**
+- 🌱 I’m currently learning **AI & Cloud Computing & Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lyes-mersel](https://github.com/lyes-mersel)
 
