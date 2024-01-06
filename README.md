@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **AI & Cloud Computing & More about WebDev**
+- 🌱 I’m currently learning **AI & Cloud Computing & More about Web Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lyes-mersel](https://github.com/lyes-mersel)
 
