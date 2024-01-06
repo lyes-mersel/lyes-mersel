@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **AI & Cloud Computing & Next.js**
+- 🌱 I’m currently learning **AI & Cloud Computing & More about WebDev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lyes-mersel](https://github.com/lyes-mersel)
 
-- 💬 Ask me about **Anything !**
+- 💬 Ask me about **Anything I know, and I will gladly share!**
 
 - 📫 How to reach me **dev.mersel@gmail.com**
 
