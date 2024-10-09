@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyes MERSEL</h1>
-<h3 align="center">CS Student & Full Stack MERN Developer</h3>
+<h3 align="center">CS Student & A passionate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyes-mersel&label=Profile%20views&color=0e75b6&style=flat" alt="lyes-mersel" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **AI & Cloud Computing & More about Web Dev**
+- 🌱 I’m currently learning **Cloud Computing & More about Web Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lyes-mersel](https://github.com/lyes-mersel)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dev.mersel@gmail.com**
 
-- ⚡ Fun fact **Fake it till you make it !**
+- ⚡ Fun fact **I used to be a bit of a chess nut !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
