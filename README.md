@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyes MERSEL</h1>
-<h3 align="center">CS Student & A passionate Developer</h3>
+<h3 align="center">Dedicated software engineering student eager to build innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyes-mersel&label=Profile%20views&color=0e75b6&style=flat" alt="lyes-mersel" /> </p>
 
