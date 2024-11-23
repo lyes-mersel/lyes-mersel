@@ -4,13 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyes-mersel&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="lyes-mersel" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyes-mersel&theme=juicyfresh&column=5&margin-w=10&margin-h=10" alt="lyes-mersel" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m actively developing software and exploring the integration of DevOps and Cloud.
 
-- 🌱 I’m currently learning **Cloud Computing & More about Web Dev**
+- 🌱 Sharpening my skills with innovative technologies to create solutions.
 
 - 👨‍💻 All of my projects are available at [https://github.com/lyes-mersel](https://github.com/lyes-mersel)
-
-- 💬 Ask me about **Anything I know, and I will gladly share !**
 
 - 📫 How to reach me **dev.mersel@gmail.com**
 
