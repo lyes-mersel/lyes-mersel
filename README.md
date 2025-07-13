@@ -8,11 +8,13 @@
 
 - 🌱 Sharpening my skills with innovative technologies to create solutions.
 
-- 👨‍💻 All of my projects are available at [https://github.com/lyes-mersel](https://github.com/lyes-mersel)
+- 👨‍💻 All of my projects are available at **[github.com/lyes-mersel](https://github.com/lyes-mersel)**
 
-- 📫 How to reach me **dev.mersel@gmail.com**
+- 🌐 Check out my portfolio: **[lyes-mersel.vercel.app](https://lyes-mersel.vercel.app)**
 
-- ⚡ Fun fact **I used to be a bit of a chess nut !**
+- 📫 How to reach me: **dev.mersel@gmail.com**
+
+- ⚡ Fun fact: **I used to be a bit of a chess nut!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
